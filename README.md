@@ -54,3 +54,6 @@ Wiring Diagram
     Pin 9 (Arduino) ---> [ 330Ω Resistor ] ---> [ LED (Anode +) ]
                                               |
                                               GND (LED Cathode -)
+
+Devpost Link:
+https://devpost.com/software/step-see-the-end-point
